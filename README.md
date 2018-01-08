@@ -1,4 +1,4 @@
-# Api_Django
+# Api django
  Django Rest Framework
 
 ## Creacion de un virtualenv para aislar la instalación de dependencias 
@@ -13,7 +13,7 @@
 ## Ejecutar migraciones en sqlite
 `python manage.py migrate`
 
-## Crear un usuario de administración (por ejemplo user: admin, password: password123)
+## Crear un usuario de administración 
 `python manage.py createsuperuser`
 
 ## Ejecutar servidor de desarrollo de Django

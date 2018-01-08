@@ -1,7 +1,7 @@
 # Api django
  Django Rest Framework
 
-## Creacion de un virtualenv para aislar la instalación de dependencias 
+## Creación de un virtualenv para aislar la instalación de dependencias 
 `virtualenv env`
 
 ## Activar virtual env
@@ -14,7 +14,7 @@
 `python manage.py migrate`
 
 ## Crear un usuario de administración 
-`python manage.py createsuperuser`
+`python manage.py createsuperuser --email admin@example.com --username admin`
 
 ## Ejecutar servidor de desarrollo de Django
 `python manage.py runserver`

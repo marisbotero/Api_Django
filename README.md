@@ -10,7 +10,7 @@
 ## Instalar requisitos
 `pip install -r requirements.txt`
 
-## Ejecutar migraciones en sqlite
+## Ejecutar migraciones 
 `python manage.py migrate`
 
 ## Crear un usuario de administración 
